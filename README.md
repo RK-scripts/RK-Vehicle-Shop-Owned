@@ -7,5 +7,5 @@ Dipendenze: ESX
             ox_lib
             oxmysql
 
-
+support discord: https://discord.gg/z8NP6qNZ
 

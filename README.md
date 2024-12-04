@@ -12,8 +12,8 @@ Addictions
 
 Main Features
 
-    •Catalogue and Test Drive menu
-    It allows players to view the complete vehicle catalog and take test drives to try out the vehicles before purchasing.
+ • Catalogue and Test Drive menu
+    It allows players to view the complete vehicle catalog and take test drives to try out the vehicles before purchasing
 
    • Spot Vehicles Menu (Fixed or Mobile)
     Management of exposure spots, with the possibility of choosing between statically or dynamically positioned vehicles.

@@ -32,5 +32,5 @@ Main Features
 
 https://www.youtube.com/watch?v=fupYOYmm3AE
 
-support discord: https://discord.gg/z8NP6qNZ
+support discord: https://discord.gg/yhG9GkhytW
 
